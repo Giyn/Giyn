@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Giyn</h1>
 <h3 align="center">A sophomore in GDUT</h3>
 <div align=center><img width = '320' height ='200' src ="https://github.com/Giyn/Giyn/blob/master/Assets/Work.gif"/></div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=giyn" alt="giyn" /> </p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
