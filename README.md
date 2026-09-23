@@ -13,8 +13,8 @@
   <a href="mailto:giyn.jy@gmail.com">
     <img src="https://img.shields.io/badge/Email-giyn.jy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://giyn.work">
-    <img src="https://img.shields.io/badge/Blog-giyn.work-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
+  <a href="https://giyn.github.io">
+    <img src="https://img.shields.io/badge/Blog-giyn.github.io-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Blog" />
   </a>
   <a href="https://github.com/Giyn">
     <img src="https://img.shields.io/badge/GitHub-Giyn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
